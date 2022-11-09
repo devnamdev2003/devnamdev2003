@@ -11,4 +11,4 @@
 - 🌱 I’m currently learning B.tech
 - 💞️ I’m looking to collaborate on computer field
 - 📫 my email address devnamdevcse@gmail.com to contact me
-- 🖥  See my portfolio at [https://devnamdev2003.github.io/Dev_Profile/](www.https://devnamdev2003.github.io/Dev_Profile/)
+- 🖥  See my portfolio at <a href="www.https://devnamdev2003.github.io/Dev_Profile/">link 🔗</a>
