@@ -11,4 +11,10 @@
 - 🌱 I’m currently learning B.tech
 - 💞️ I’m looking to collaborate on computer field
 - 📫 my email address devnamdevcse@gmail.com to contact me
-- 🖥  See my portfolio at <a href="www.https://devnamdev2003.github.io/Dev_Profile/">link 🔗</a>
+
+<p href="https://github.com/devnamdev2003/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devnamdev2003&show_icons=true&theme=onedark" />
+</p>
+<p href="https://github.com/devnamdev2003/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnamdev2003&theme=onedark&layout=compact" />
+</p>
