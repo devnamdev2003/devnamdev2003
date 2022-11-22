@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center">Hye! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">,I'm Dev Namdev</h1>
+<h1 align="center">Hye! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px"> I'm Dev Namdev</h1>
 
 <p align="center">
 <a href="mailto:devnamdevcse@gmail.com@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>
