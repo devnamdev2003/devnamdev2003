@@ -8,7 +8,9 @@
 <a href="https://www.instagram.com/dev_namdev813/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>
 <a href="https://www.facebook.com/dev.namdev813/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge" height="25"></a>
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnamdev2003&label=Profile%20views&color=B833FF&style=flat" alt="devnamdev2003" /> </p>
+
 ## About me
 - 👋 Hi, I’m devnamdev2003
 - 👀 I’m interested in programming 
