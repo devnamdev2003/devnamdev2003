@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center">Hye! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px"> I'm Dev Namdev</h1>
+<h1 align="center">Hye! 👋 I'm Dev Namdev</h1>
 
 <p align="center">
 <a href="mailto:devnamdevcse@gmail.com@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>
@@ -20,8 +20,5 @@
 
 <br>
 
-![Dev's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=devnamdev2003&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnamdev2003&theme=radical)
-
-![Github Stars](https://github-readme-stats.vercel.app/api?username=devnamdev2003&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnamdev2003&theme=radical) |  ![Github Stars](https://github-readme-stats.vercel.app/api?username=devnamdev2003&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)         |
+| ------- | ------------------ |
