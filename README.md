@@ -1,13 +1,15 @@
 <h1 align="center">Hye! 👋 I'm Dev Namdev</h1>
 
 <p align="center">
-<a href="mailto:devnamdevcse@gmail.com@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>
-<a href="https://www.linkedin.com/in/dev-namdev-275536226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>
-<a href="https://mobile.twitter.com/DevNamd12905361" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>
-<a href="https://www.instagram.com/dev_namdev813/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>
-<a href="https://www.facebook.com/dev.namdev813/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge" height="25"></a>
+<a href="mailto:devnamdevcse@gmail.com@gmail.com" target="_blank"><img src="https://img.icons8.com/nolan/48/gmail.png" alt="gmail"/></a>
+<a href="https://www.linkedin.com/in/dev-namdev-275536226/" target="_blank"><img src="https://img.icons8.com/nolan/48/linkedin.png" alt="linkedin"/></a>
+<a href="https://mobile.twitter.com/DevNamd12905361" target="_blank"><img src="https://img.icons8.com/nolan/48/twitter-squared.png" alt="twitter-squared"/></a>
+<a href="https://www.instagram.com/dev_namdev813/" target="_blank"><img  src="https://img.icons8.com/nolan/48/instagram-new.png" alt="instagram-new"/></a>
+<a href="https://www.facebook.com/dev.namdev813/" target="_blank"><img src="https://img.icons8.com/nolan/48/facebook.png" alt="facebook"/></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnamdev2003&label=Profile%20views&color=B833FF&style=flat" alt="devnamdev2003" /> </p>
+
+
 
 ---
 
@@ -30,7 +32,7 @@ With these skills, I am well-equipped to develop software applications, build an
 
 # ✨ Languages and Tools
 
-<img src="https://img.icons8.com/nolan/48/c-plus-plus.png" alt="c++_icon"> <img src="https://img.icons8.com/nolan/48/python.png" alt="python_icon"> <img src="https://img.icons8.com/nolan/48/cs.png" alt="cs">  <img src="https://img.icons8.com/nolan/48/html.png" alt="html_icon">  <img src="https://img.icons8.com/nolan/48/css-filetype.png" alt="css_icon">  <img src="https://img.icons8.com/nolan/48/js.png" alt="js_icon">  <img src="https://img.icons8.com/nolan/48/php.png" alt="php_icon">  <img src="https://img.icons8.com/nolan/48/sql.png" alt="sql_icon">  <img src="https://img.icons8.com/nolan/48/linux--v2.png" alt="linux--v2">  <img src="https://img.icons8.com/nolan/48/git.png" alt="git_icon">  <img src="https://img.icons8.com/nolan/48/api.png" alt="api">  <img src="https://img.icons8.com/nolan/48/mysql.png" alt="mysql">  <img src="https://img.icons8.com/nolan/48/github.png" alt="github_icon">  <img src="https://img.icons8.com/nolan/48/docker.png" alt="docker">  <img src="https://img.icons8.com/nolan/48/canva.png" alt="canva">  <img src="https://img.icons8.com/nolan/48/filmora.png" alt="filmora">  <img src="https://img.icons8.com/nolan/48/adobe-premiere-pro.png" alt="Adobe_icon">
+<img src="https://img.icons8.com/nolan/48/c-plus-plus.png" alt="c++_icon"> <img src="https://img.icons8.com/nolan/48/python.png" alt="python_icon"> <img src="https://img.icons8.com/nolan/48/cs.png" alt="cs">  <img src="https://img.icons8.com/nolan/48/html.png" alt="html_icon">  <img src="https://img.icons8.com/nolan/48/css-filetype.png" alt="css_icon">  <img src="https://img.icons8.com/nolan/48/js.png" alt="js_icon">  <img src="https://img.icons8.com/nolan/48/php.png" alt="php_icon">  <img src="https://img.icons8.com/nolan/48/sql.png" alt="sql_icon">  <img src="https://img.icons8.com/nolan/48/linux--v2.png" alt="linux--v2">  <img src="https://img.icons8.com/nolan/48/git.png" alt="git_icon">  <img src="https://img.icons8.com/nolan/48/api.png" alt="api">  <img src="https://img.icons8.com/nolan/48/mysql.png" alt="mysql">  <img src="https://img.icons8.com/nolan/48/github.png" alt="github_icon">  <img src="https://img.icons8.com/nolan/48/docker.png" alt="docker">  <img src="https://img.icons8.com/nolan/48/canva.png" alt="canva">  <img src="https://img.icons8.com/nolan/48/filmora.png" alt="filmora">  <img src="https://img.icons8.com/nolan/48/adobe-premiere-pro.png" alt="Adobe_icon"> 
 
 ---
 
@@ -49,5 +51,5 @@ With these skills, I am well-equipped to develop software applications, build an
 
 </br>
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnamdev2003&theme=radical) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=devnamdev2003&show_icons=true&locale=en&count_private=true&hide_rank=false&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnamdev2003&theme=radical&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=devnamdev2003&show_icons=true&locale=en&count_private=true&hide_rank=false&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
