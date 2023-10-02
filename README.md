@@ -5,11 +5,10 @@
 <a href="https://www.linkedin.com/in/dev-namdev-275536226/" target="_blank"><img src="https://img.icons8.com/nolan/48/linkedin.png" alt="linkedin"/></a>
 <a href="https://mobile.twitter.com/DevNamd12905361" target="_blank"><img src="https://img.icons8.com/nolan/48/twitter-squared.png" alt="twitter-squared"/></a>
 <a href="https://www.instagram.com/dev_namdev813/" target="_blank"><img  src="https://img.icons8.com/nolan/48/instagram-new.png" alt="instagram-new"/></a>
-<a href="https://www.facebook.com/dev.namdev813/" target="_blank"><img src="https://img.icons8.com/nolan/48/facebook.png" alt="facebook"/></a>
-</p>
+<a href="https://www.facebook.com/dev.namdev813/" target="_blank"><img src="https://img.icons8.com/nolan/48/facebook.png" alt="facebook"/></a> 
+<a href="https://www.youtube.com/@devnamdev6513/" target="_blank"><img  src="https://img.icons8.com/nolan/48/youtube-play.png" alt="youtube-play"/></a> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnamdev2003&label=Profile%20views&color=B833FF&style=flat" alt="devnamdev2003" /> </p>
-
-
 
 ---
 
