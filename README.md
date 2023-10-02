@@ -1,12 +1,12 @@
 <h1 align="center">Hye! 👋 I'm Dev Namdev</h1>
 
 <p align="center">
-<a href="mailto:devnamdevcse@gmail.com@gmail.com" target="_blank"><img src="https://img.icons8.com/nolan/48/gmail.png" alt="gmail"/></a>
-<a href="https://www.linkedin.com/in/dev-namdev-275536226/" target="_blank"><img src="https://img.icons8.com/nolan/48/linkedin.png" alt="linkedin"/></a>
-<a href="https://mobile.twitter.com/DevNamd12905361" target="_blank"><img src="https://img.icons8.com/nolan/48/twitter-squared.png" alt="twitter-squared"/></a>
-<a href="https://www.instagram.com/dev_namdev813/" target="_blank"><img  src="https://img.icons8.com/nolan/48/instagram-new.png" alt="instagram-new"/></a>
-<a href="https://www.facebook.com/dev.namdev813/" target="_blank"><img src="https://img.icons8.com/nolan/48/facebook.png" alt="facebook"/></a> 
-<a href="https://www.youtube.com/@devnamdev6513/" target="_blank"><img  src="https://img.icons8.com/nolan/48/youtube-play.png" alt="youtube-play"/></a> 
+<a href="mailto:devnamdevcse@gmail.com@gmail.com" target="_blank"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/gmail.png" alt="gmail"/></a>
+<a href="https://www.linkedin.com/in/dev-namdev-275536226/" target="_blank"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/linkedin.png" alt="linkedin"/></a>
+<a href="https://mobile.twitter.com/DevNamd12905361" target="_blank"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/twitter-squared.png" alt="twitter-squared"/></a>
+<a href="https://www.instagram.com/dev_namdev813/" target="_blank"><img  style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/instagram-new.png" alt="instagram-new"/></a>
+<a href="https://www.facebook.com/dev.namdev813/" target="_blank"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/facebook.png" alt="facebook"/></a> 
+<a href="https://www.youtube.com/@devnamdev6513/" target="_blank"><img  style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/youtube-play.png" alt="youtube-play"/></a> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnamdev2003&label=Profile%20views&color=B833FF&style=flat" alt="devnamdev2003" /> </p>
 
@@ -27,14 +27,14 @@ My experience extends to creating and maintaining APIs, ensuring secure authenti
 
 # ✨ Languages and Tools
 
-<img src="https://img.icons8.com/nolan/48/c-plus-plus.png" alt="c++_icon"><img src="https://img.icons8.com/nolan/48/python.png" alt="python_icon"><img src="https://img.icons8.com/nolan/48/cs.png" alt="cs"><img src="https://img.icons8.com/nolan/48/html.png" alt="html_icon"><img src="https://img.icons8.com/nolan/48/css-filetype.png" alt="css_icon"><img src="https://img.icons8.com/nolan/48/js.png" alt="js_icon"><img src="https://img.icons8.com/nolan/nolan/48/react-native.png" alt="react-native"/><img src="https://img.icons8.com/nolan/48/1A6DFF/C822FF/django.png" alt="django"/><img src="https://img.icons8.com/nolan/48/php.png" alt="php_icon"><img src="https://img.icons8.com/nolan/48/sql.png" alt="sql_icon"><img src="https://img.icons8.com/nolan/48/linux--v2.png" alt="linux--v2"><img src="https://img.icons8.com/nolan/48/git.png" alt="git_icon"><img src="https://img.icons8.com/nolan/48/api.png" alt="api"><img src="https://img.icons8.com/nolan/48/mysql.png" alt="mysql">  <img src="https://img.icons8.com/nolan/48/github.png" alt="github_icon">  <img src="https://img.icons8.com/nolan/48/docker.png" alt="docker"><img src="https://img.icons8.com/nolan/48/canva.png" alt="canva"><img src="https://img.icons8.com/nolan/48/filmora.png" alt="filmora"><img src="https://img.icons8.com/nolan/48/adobe-premiere-pro.png" alt="Adobe_icon"><img src="https://img.icons8.com/nolan/48/asp.png" alt="asp"/><img src="https://img.icons8.com/nolan/48/mysql.png" alt="mysql"/><img src="https://img.icons8.com/nolan/48/amazon-web-services.png" alt="amazon-web-services"/>
+<img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/c-plus-plus.png" alt="c++_icon"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/python.png" alt="python_icon"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/cs.png" alt="cs"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/html.png" alt="html_icon"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/css-filetype.png" alt="css_icon"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/js.png" alt="js_icon"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/nolan/48/react-native.png" alt="react-native"/><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/1A6DFF/C822FF/django.png" alt="django"/><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/php.png" alt="php_icon"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/sql.png" alt="sql_icon"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/linux--v2.png" alt="linux--v2"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/git.png" alt="git_icon"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/api.png" alt="api"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/mysql.png" alt="mysql">  <img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/github.png" alt="github_icon">  <img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/docker.png" alt="docker"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/canva.png" alt="canva"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/filmora.png" alt="filmora"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/adobe-premiere-pro.png" alt="Adobe_icon"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/asp.png" alt="asp"/><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/mysql.png" alt="mysql"/><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/amazon-web-services.png" alt="amazon-web-services"/>
 
 ---
 <br/>
 <br/>
 
 
-#  <img src="https://img.icons8.com/nolan/30/project.png" alt="project"/> Projects
+#  <img style="margin:5px 5px;" src="https://img.icons8.com/nolan/30/project.png" alt="project"/> Projects
 
 | [![Django_template](https://repository-images.githubusercontent.com/573283010/ca9fc15e-99d1-4b8d-aaf4-682082b68adc)](https://github.com/devnamdev2003/Django_template)Django_template                                                 | [![Portfolio](https://repository-images.githubusercontent.com/530482326/1cf35764-afce-4e9d-89da-07ae5d551ae1)](https://github.com/devnamdev2003/devnamdev2003.github.io)Portfolio |
 | ----------------------- | -------------------------------------- |
