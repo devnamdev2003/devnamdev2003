@@ -1,4 +1,4 @@
-<h1 align="center">Hye! 👋 I'm Dev Namdev</h1>
+<h1 align="center">Hi! 👋 I'm Dev Namdev</h1>
 
 <p align="center">
 <a href="mailto:devnamdevcse@gmail.com@gmail.com" target="_blank"><img style="margin:5px 5px;" src="https://img.icons8.com/nolan/48/gmail.png" alt="gmail"/></a>
