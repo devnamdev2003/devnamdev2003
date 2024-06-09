@@ -19,7 +19,7 @@ With a strong foundation in web development technologies like HTML, CSS, JavaScr
 
 My experience extends to creating and maintaining APIs, ensuring secure authentication and authorization, and documenting them meticulously. I'm equally comfortable with database management, having worked extensively. I thrive in fast-paced, collaborative environments, and I'm committed to continuously learning and implementing the latest industry best practices.
 
-# [Resume](https://media.licdn.com/dms/image/D4D2DAQEGFsxgismGVw/profile-treasury-image-shrink_1280_1280/0/1696269067249?e=1696874400&v=beta&t=YBJmRyEvYwIgjyIeYbeazapeANqSfieId5ndEVNOYM4)
+# [Resume](https://docs.google.com/document/d/1Fq6b7VAR9OYSb8s7gM3QrG8h2eF1rhGe/edit?usp=sharing&ouid=113745956454693398203&rtpof=true&sd=true&usp=embed_facebook)
 
 
 
