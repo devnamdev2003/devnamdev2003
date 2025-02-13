@@ -2,7 +2,6 @@
 
 - **Full Name:** Dev Namdev
 - **Email:** devnamdevcse@gmail.com
-- **Mobile:** +919926040407
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/devnamdev/)
 - **GitHub:** [GitHub Profile](https://github.com/devnamdev2003)
 
@@ -145,7 +144,6 @@
 | [LinkedIn](https://www.linkedin.com/in/dev-namdev-275536226/)               | https://www.linkedin.com/in/dev-namdev-275536226/               |
 | [Codepen](https://codepen.io/devnamdev2003)                                 | https://codepen.io/devnamdev2003                                |
 | [Devpost](https://devpost.com/devnamdevcse)                                 | https://devpost.com/devnamdevcse                                |
-| [WhatsApp](http://web.whatsapp.com/send?phone=+919926040407&amp;text=Hello) | http://web.whatsapp.com/send?phone=+919926040407&amp;text=Hello |
 | [Twitter](https://mobile.twitter.com/DevNamd46751731)                       | https://mobile.twitter.com/DevNamd46751731                      |
 | [Instagram](https://www.instagram.com/dev_namdev813/)                       | https://www.instagram.com/dev_namdev813/                        |
 | [Facebook](https://www.facebook.com/dev.namdev813/)                         | https://www.facebook.com/dev.namdev813/                         |
